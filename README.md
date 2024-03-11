@@ -4,7 +4,7 @@ Welcome to Myuzo Labs, the birthplace of AVC (Audio Version Control) — an ecos
 
 ## AVC: Redefining Music Production
 
-AVC (Audio Version Control) represents our commitment to innovation in music. It is a collaborative arena where artists, producers, and developers converge to shape the future of open music production.
+AVC, which stands for Audio Version Control, symbolizes our commitment to innovating within the realm of music creation. Our vision is a collaborative space where artists, producers, and developers converge to compose the future of open music.
 
 ### Core Features and Web3 Integration
 
